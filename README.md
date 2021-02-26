@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is sergrt
+#### I am C++ software engineer
+I use this profile to share some ideas
+
+Skills: C++ / Python
+
+- 🔭 I’m currently working on interesting stuff :<zero-width space>) 
+- 🌱 I’m currently learning functional programming 
+- 📫 How to reach me: sergrt@fastmail.com 
 
 <!--
 **sergrt/sergrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
