@@ -5,7 +5,7 @@ I use this profile to share some ideas
 Skills: C++ / Python and everything in between and around
 
 - 🔭 I’m currently working on interesting stuff :<zero-width space>) 
-- 🌱 I’m currently learning evolutionary architecture
+- 🌱 I’m currently learning QML
 - 📫 How to reach me: sergrt@fastmail.com 
 
 <!--
