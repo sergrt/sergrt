@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is sergrt
-#### I am C++ software engineer
+#### I am C++/Python software engineer. Backend⚙️, frontend🖼️, middleware↔️
 I use this profile to share some ideas
 
 Skills: C++ / Python and everything in between and around
 
-- 🔭 I’m currently working on interesting stuff :<zero-width space>) 
+- 👯 I believe in sharing and collaboration: good ideas inspire people to make great things
+- 🔭 I’m currently working software for musicians🎸 
 - 🌱 I’m currently learning QML
 - 📫 How to reach me: sergrt@fastmail.com 
 
