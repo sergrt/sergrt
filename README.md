@@ -5,7 +5,7 @@ I use this profile to share some ideas
 Skills: C++ / Python and everything in between and around
 
 - 👯 I believe in sharing and collaboration: good ideas inspire people to make great things
-- 🔭 I’m currently working software for musicians🎸 
+- 🔭 I’m currently working on software for musicians🎸 
 - 🌱 I’m currently learning QML
 - 📫 How to reach me: sergrt@fastmail.com 
 
